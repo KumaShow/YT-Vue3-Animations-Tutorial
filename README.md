@@ -1,4 +1,5 @@
 # vue-animations
+依照 Youtube - Net Ninja [Vue 3 Animations & Transitions Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ghm7-iTfS9n468Kp7l9Ipu) 學習 Vue 3 的 Transition 動畫使用方式，包含 GSAP 的套件使用。
 
 ## Project setup
 ```
